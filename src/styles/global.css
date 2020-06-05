@@ -18,3 +18,9 @@
 .repos-list li{
 	break-inside: avoid-column;
 }
+
+.courses{
+	columns: 3;
+	-moz-columns:3;
+	column-rule: 1px solid;
+}

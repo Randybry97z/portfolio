@@ -1,0 +1,107 @@
+{
+	"data": {
+	"email": "bssandovalrod@gmail.com",
+	"username": "Randy97",
+	"certificates": [
+	{
+	"score": 9,
+	"code": "e548f9ad-c579-47b5-aa3b-13028755af39",
+	"title": "Curso Profesional de Backend"
+	}
+	],
+	"articles": [],
+	"courses": [
+	{
+	"title": "Curso de Introducción a JAVA Swing Gratis",
+	"progress": "66.0",
+	"url": "http://codigofacilito.com/courses/javaswing"
+	},
+	{
+	"title": "Curso de Git Gratis",
+	"progress": "10.0",
+	"url": "http://codigofacilito.com/courses/git"
+	},
+	{
+	"title": "Curso profesional de PHP",
+	"progress": "0.0",
+	"url": "http://codigofacilito.com/courses/php-profesional"
+	},
+	{
+	"title": "Curso de PHP Básico Gratis",
+	"progress": "8.0",
+	"url": "http://codigofacilito.com/courses/php7"
+	},
+	{
+	"title": "Curso Profesional de JAVA",
+	"progress": "0.0",
+	"url": "http://codigofacilito.com/courses/java-profesional"
+	},
+	{
+	"title": "Curso de desarrollo vídeo juegos 2d con Unity",
+	"progress": "0.0",
+	"url": "http://codigofacilito.com/courses/unity-2d"
+	},
+	{
+	"title": "Curso de MongoDB",
+	"progress": "0.0",
+	"url": "http://codigofacilito.com/courses/mongodb"
+	},
+	{
+	"title": "Curso Profesional de JavaScript",
+	"progress": "0.0",
+	"url": "http://codigofacilito.com/courses/javascript-profesional"
+	},
+	{
+	"title": "Crea un reproductor de audio con HTML5",
+	"progress": "0.0",
+	"url": "http://codigofacilito.com/courses/player-audio-html5"
+	},
+	{
+	"title": "Curso de AngularJS Gratis",
+	"progress": "100.0",
+	"url": "http://codigofacilito.com/courses/angularjs"
+	},
+	{
+	"title": "Curso para desarrollar servicios web REST con Nodejs",
+	"progress": "21.0",
+	"url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+	},
+	{
+	"title": "Curso Profesional de Laravel",
+	"progress": "3.0",
+	"url": "http://codigofacilito.com/courses/laravel-profesional"
+	},
+	{
+	"title": "Pruebas unitarias con PHP",
+	"progress": "0.0",
+	"url": "http://codigofacilito.com/courses/php-testing"
+	},
+	{
+	"title": "Curso Profesional de Backend",
+	"progress": "100.0",
+	"url": "http://codigofacilito.com/courses/backend-profesional"
+	},
+	{
+	"title": "Crea un sitio personal con Gatsby",
+	"progress": "53.0",
+	"url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+	},
+	{
+	"title": "Curso de TypeScript",
+	"progress": "30.0",
+	"url": "http://codigofacilito.com/courses/typescript"
+	}
+	],
+	"finished_courses": [
+	{
+	"title": "Curso de AngularJS Gratis",
+	"url": "http://codigofacilito.com/courses/angularjs"
+	},
+	{
+	"title": "Curso Profesional de Backend",
+	"url": "http://codigofacilito.com/courses/backend-profesional"
+	}
+	]
+	},
+	"errors": []
+	}

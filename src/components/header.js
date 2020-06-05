@@ -10,7 +10,7 @@ export default ()=>(
 					<h1 className="font-bold text-blue-700 text-6xl">¡Hola! Soy Bryan</h1>
 					<p className="text-xl font-light">Soy desarrollador de Software.</p>
 				</div>
-					<img src={illustration} alt="Thinking code" style={{height: "300px", width: "400px"}}></img>
+					<img className="invisible xl:visible" src={illustration} alt="Thinking code" style={{height: "300px", width: "400px"}}></img>
 			</div>
 
 
