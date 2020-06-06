@@ -1,0 +1,17 @@
+{
+	"slug": "presencial",
+	"title": "Formacion académica",
+	"description": "Formacion académica, grados de estudio e instituciones a las que asistí",
+	"items": [
+		{
+			"name": "Universidad Abierta y a Distancia de México",
+			"degree": "Ing. en Desarrollo de Software",
+			"score": "80"
+		},
+		{
+			"name": "Colegio de Bachilleres",
+			"degree": "Técnico en informática",
+			"score": "XX"
+		}
+	]
+}

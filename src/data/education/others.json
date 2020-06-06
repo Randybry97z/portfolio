@@ -1,0 +1,27 @@
+{
+	"slug": "otros",
+	"title": "Otros logros académicos",
+	"description": "Talleres, diplomados y certificaciones",
+	"items": [
+		{
+			"name": "SugarCRM University",
+			"degree": "Developer for SugarCRM",
+			"score": "90"
+		},
+		{
+			"name": "SugarCRM University",
+			"degree": "Administrator for SugarCRM",
+			"score": "80"
+		},
+		{
+			"name": "SAS Academy",
+			"degree": "SAS Visual Analytics",
+			"score": "XX"
+		},
+		{
+			"name": "SAS Academy",
+			"degree": "SAS Data Integration Studio",
+			"score": "XX"
+		}
+	]
+}

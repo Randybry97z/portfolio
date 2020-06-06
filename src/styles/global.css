@@ -24,3 +24,9 @@
 	-moz-columns:3;
 	column-rule: 1px solid;
 }
+
+.vertical-text{
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+	@apply bg-yellow-200 text-blue-700 text-xs p-2 inline-block;
+}

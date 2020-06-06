@@ -1,0 +1,23 @@
+{
+	"slug": "online",
+	"title": "Cursos en línea",
+	"description": "Cursos finalizados en plataformas online",
+	"items": [
+		{
+			"name": "Curso profesional de BackEnd",
+			"url": "https://codigofacilito.com/cursos/backend-profesional"
+		},
+		{
+			"name": "Curso de AngularJS",
+			"url": "https://codigofacilito.com/cursos/angularjs"
+		},
+		{
+			"name": "Curso de Marca Personal",
+			"url": "https://platzi.com/clases/marca-personal/"
+		},
+		{
+			"name": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, Wordpress +",
+			"url": "www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress"
+		}
+	]
+}
