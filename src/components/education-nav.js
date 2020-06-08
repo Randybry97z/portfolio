@@ -18,7 +18,10 @@ export default (props) =>{
 
 	return(
 		<div className="max-w-4xl mx-auto mt-20 overflow-x-scroll ">
-			<h2 className="text-3xl font-bold text-center">Know more about my training</h2>
+			<header className="items-center">
+				<h2 className="text-3xl font-bold text-center">Know more about my training</h2>
+				<p class="font-bold text-center text-red-600">If the section doesn't load, try reloading</p>
+			</header>
 			<nav className="flex justify-center mt-8">
 			{
 				data.allEducationJson.edges.map((element,index)=>{

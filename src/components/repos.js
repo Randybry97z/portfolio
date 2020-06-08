@@ -38,7 +38,7 @@ export default () => {
 		<div className="max-w-4xl mx-auto mt-12">
 			<header className="text-center">
 				<h2 className="text-3xl font-bold">My Open Source Job</h2>
-				<p>Colaboración y contribución de código</p>
+				<p>Collaboration & code contribution</p>
 			</header>
 			<ul className="repos-list">
 				{
