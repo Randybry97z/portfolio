@@ -17,14 +17,14 @@ export default (props) =>{
 	`)
 
 	return(
-		<div className="max-w-4xl mx-auto mt-20 overflow-x-scroll">
+		<div className="max-w-4xl mx-auto mt-20 overflow-x-scroll ">
 			<h2 className="text-3xl font-bold text-center">Know more about my training</h2>
 			<nav className="flex justify-center mt-8">
 			{
 				data.allEducationJson.edges.map((element,index)=>{
 					const { node } = element
 					return(
-						<article className="flex-1 bg-white shadow m-4 p-4 max-w-sm shadow bg-white rounded">
+						<article className="flex-1 bg-white shadow m-4 p-4 max-w-4xl mx-auto shadow bg-white rounded">
 							<header>
 								<p className="font-bold leading-loose">{node.title}</p>
 								<div className="mt-8">
