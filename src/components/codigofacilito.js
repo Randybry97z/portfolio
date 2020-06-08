@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, grap, graphql} from "gatsby"
+import { useStaticQuery, graphql} from "gatsby"
 import Posts from './posts'
 import Certificate from './certificate'
 import Course from './course'

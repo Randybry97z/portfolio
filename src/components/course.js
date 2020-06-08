@@ -5,7 +5,7 @@ export default (props)=>{
 	return (
 		<div className="shadow p-8 bg-white mr-4 rounded">
 			<h4 className="font bold">
-				<a href={course.url} target="_blank" className="truncate">{course.title}</a></h4>
+				<a href={course.url} target="_blank" rel="noopener noreferrer" className="truncate">{course.title}</a></h4>
 			<div className="text-center">
 				<span className="inline-block bg-blue-200 text-blue-700 p-2 mt-2 radius">Progreso: {course.progress}</span>
 			</div>
