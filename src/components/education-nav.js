@@ -24,12 +24,12 @@ export default (props) =>{
 				data.allEducationJson.edges.map((element,index)=>{
 					const { node } = element
 					return(
-						<article className="flex-1 bg-white shadow m-3 p-2 max-w-xs shadow bg-white rounded">
+						<article className="flex-1 bg-white shadow m-4 p-4 max-w-sm shadow bg-white rounded">
 							<header>
 								<p className="font-bold leading-loose">{node.title}</p>
 								<div className="mt-8">
 									<p className="font-light">{ node.description }</p>
-										<Link to={`/${node.slug}/`} className="btn inline-block mt-4">Ir</Link>
+										<Link to={`/${node.slug}/`} className="btn inline-block mt-4">Go</Link>
 								</div>
 							</header>
 						</article>
