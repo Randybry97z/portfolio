@@ -1,14 +1,10 @@
 import React from "react";
 
 export default () => (
-	<form className="mt-16 text-center">
-		<label htmlFor="contact-content" className="block text-gray-700 text-sm font-bold mb-2">Tell me what you have in mind: </label>
-		<div className="flex shadow rounded bg-white border p-2">
-			<textarea
-				id="contact-content"
-				name="contact-content"
-				className="flex-1 py-2 px-3 text-gray-700 focus:outline-none focus:shadow-outline"></textarea>
-			<button className="btn ml-4">Send</button>
+	<div className="mt-16 text-center">
+		<span className="block text-gray-700 text-sm font-bold mb-2">Tell me what you have in mind: </span>
+		<div className="flex shadow rounded border bg-white">
+			<p className="flex-1 py-2 px-3 text-blue-700 font-bold">bssandovalrod@gmail.com</p>
 		</div>
-	</form>
+	</div>
 )

@@ -33,7 +33,7 @@
 			]
 		},
 		{
-			"name": "Data Bases",
+			"name": "Databases",
 			"frameworks": [
 				{
 					"name": "MySQL"
@@ -56,10 +56,6 @@
 					"name": "Symfony"
 				}
 			]
-		},
-		{
-			"name": "Java",
-			"frameworks": []
 		},
 		{
 			"name": "Javascript",

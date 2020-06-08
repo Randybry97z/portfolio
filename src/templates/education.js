@@ -29,6 +29,17 @@ export default(props)=>{
 											item.url && <a href={item.url} target="_blank" rel="noopener noreferrer" className="btn mt-4 inline-block"> Show more </a>
 										}
 								</div>
+								{ item.frameworks &&
+									<ul className="text-center flex-1 inline-block p-2 text-xl text-green-700">
+									{
+										item.frameworks.map((item,index)=>(
+											<li key={index}>
+												<p>{item.name}</p>
+											</li>
+										))
+									}
+									</ul>
+								}
 								<div className="inline-block">
 									<span className="inline-block p-2 text-2xl bg-green-100 text-green-700">{item.score}</span>
 								</div>
@@ -54,6 +65,9 @@ export const query = graphql`
 				degree
 				score
 				url
+				frameworks{
+					name
+				}
 			}
 		}
 	}
