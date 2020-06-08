@@ -33,13 +33,13 @@ export default () => {
 					<Posts
 						data={data.codigofacilitoJson.data.certificates}
 						card={Certificate}
-						title="Mis certificados online"/>
+						title="My certificates online"/>
 
 						<div className="max-w-4xl mx-auto overflow-x-scroll">
 							<Posts
 								data={data.codigofacilitoJson.data.courses}
 								card={Course}
-								title="Mis cursos online"/>
+								title="My courses online"/>
 						</div>
 
 				</div>

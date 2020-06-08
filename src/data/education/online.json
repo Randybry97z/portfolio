@@ -1,7 +1,7 @@
 {
 	"slug": "online",
-	"title": "Cursos en línea",
-	"description": "Cursos finalizados en plataformas online",
+	"title": "Online courses",
+	"description": "Courses completed on online platforms",
 	"items": [
 		{
 			"name": "Curso profesional de BackEnd",

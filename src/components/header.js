@@ -7,8 +7,8 @@ export default ()=>(
 		<div className="container mx-auto p-12 max-w-4xl">
 			<div className="flex justify-center items-center">
 				<div className="flex-1 justify-center">
-					<h1 className="xl: font-bold text-blue-700 text-6xl">¡Hola! Soy Bryan</h1>
-					<p className="text-xl font-light">Soy desarrollador de Software.</p>
+					<h1 className="xl: font-bold text-blue-700 text-6xl">¡Hi! I'm Bryan</h1>
+					<p className="text-xl font-light">I am Software Developer.</p>
 				</div>
 					<img className=" inline-block " src={illustration} alt="Thinking code" style={{height: "300px", width: "400px"}}></img>
 			</div>

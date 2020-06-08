@@ -9,7 +9,7 @@ export default(props)=>{
 				<h4 className="font-bold h-20 overflow-y-hidden">
 					{post.title}</h4>
 				<div className="text-center mt-8">
-					<a href={post.link} className="btn"> Leer </a>
+					<a href={post.link} className="btn"> Read </a>
 				</div>
 			</div>
 		</div>

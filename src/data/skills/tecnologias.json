@@ -1,0 +1,107 @@
+{
+	"slug": "technologies",
+	"title": "Technologies I manage",
+	"description": "Technologies I have worked with",
+	"items": [
+		{
+			"name": "SugarCRM",
+			"frameworks": []
+		},
+		{
+			"name": "SAS",
+			"frameworks": []
+		},
+		{
+			"name": "MarkLogic",
+			"frameworks": []
+		},
+		{
+			"name": "HTML & CSS",
+			"frameworks": [
+				{
+					"name": "Bootstrap"
+				},
+				{
+					"name": "Tailwind"
+				},
+				{
+					"name": "Sass"
+				},
+				{
+					"name": "Less"
+				}
+			]
+		},
+		{
+			"name": "Data Bases",
+			"frameworks": [
+				{
+					"name": "MySQL"
+				},
+				{
+					"name": "Postgres"
+				}
+			]
+		},
+		{
+			"name": "PHP",
+			"frameworks": [
+				{
+					"name": "Laravel"
+				},
+				{
+					"name": "WordPress"
+				},
+				{
+					"name": "Symfony"
+				}
+			]
+		},
+		{
+			"name": "Java",
+			"frameworks": []
+		},
+		{
+			"name": "Javascript",
+			"frameworks": [
+				{
+					"name": "NodeJS"
+				},
+				{
+					"name": "AngularJS"
+				},
+				{
+					"name": "ReactJS"
+				},
+				{
+					"name": "GatsbyJS"
+				},
+				{
+					"name": "JQuery"
+				}
+			]
+		},
+		{
+			"name": "Git",
+			"frameworks": []
+		},
+		{
+			"name": "Linux",
+			"frameworks": [
+				{
+					"name": "Debian"
+				},
+				{
+					"name": "CentOS"
+				},
+				{
+					"name": "Ubuntu"
+				}
+			]
+		},
+		{
+			"name": "Godot Engine",
+			"frameworks": []
+		}
+	]
+}

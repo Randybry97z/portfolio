@@ -7,7 +7,7 @@ export default (props) => (
 			<p className="text-sm text-gray-800 overflow-y-hidden" style={{height:"1.5em"}}>{props.repo.description}</p>
 		</div>
 		<div className="flex-1 text-right">
-			<a href={props.repo.html_url} target="_blank" rel="noopener noreferrer"> Ver </a>
+			<a href={props.repo.html_url} target="_blank" rel="noopener noreferrer"> See repo </a>
 		</div>
 	</li>
 )
