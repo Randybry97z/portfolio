@@ -1,5 +1,5 @@
 import React from 'react'
-import {useStaticQuery, graphql, Link} from 'gatsby'
+import {useStaticQuery, graphql} from 'gatsby'
 
 export default (props) =>{
 	const data = useStaticQuery(graphql`
@@ -32,7 +32,7 @@ export default (props) =>{
 								<p className="font-bold leading-loose">{node.title}</p>
 								<div className="mt-8">
 									<p className="font-light">{ node.description }</p>
-										<Link to={`/${node.slug}`} className="btn inline-block mt-4">Go</Link>
+										<a href={node.slug} className="btn inline-block mt-4">Go</a>
 								</div>
 							</header>
 						</article>
