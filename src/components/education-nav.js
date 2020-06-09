@@ -32,7 +32,7 @@ export default (props) =>{
 								<p className="font-bold leading-loose">{node.title}</p>
 								<div className="mt-8">
 									<p className="font-light">{ node.description }</p>
-										<Link to={`/${node.slug}/`} className="btn inline-block mt-4">Go</Link>
+										<Link to={`/${node.slug}`} className="btn inline-block mt-4">Go</Link>
 								</div>
 							</header>
 						</article>

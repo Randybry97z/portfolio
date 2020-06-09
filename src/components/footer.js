@@ -19,7 +19,7 @@ export default ()=>(
 				  	<a href="https://www.linkedin.com/in/ranbry/" target="_blank" rel="noopener noreferrer"><img className="mt-5 visible h-10" src={linkedin} alt="linkedin"></img></a>
 				  </div>
 				  <div class="w-4 flex-1 h-12">
-				  	<a href="github.com/Randybry97z" target="_blank" rel="noopener noreferrer"><img className="mt-5 visible h-10" src={github} alt="github"></img></a>
+				  	<a href="https://github.com/Randybry97z" target="_blank" rel="noopener noreferrer"><img className="mt-5 visible h-10" src={github} alt="github"></img></a>
 				  </div>
 				</div>
 			</div>
