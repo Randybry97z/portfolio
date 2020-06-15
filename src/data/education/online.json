@@ -5,19 +5,31 @@
 	"items": [
 		{
 			"name": "Curso profesional de BackEnd",
-			"url": "https://codigofacilito.com/cursos/backend-profesional"
+			"url": "http://codigofacilito.com/cursos/backend-profesional"
 		},
 		{
 			"name": "Curso de AngularJS",
-			"url": "https://codigofacilito.com/cursos/angularjs"
+			"url": "http://codigofacilito.com/cursos/angularjs"
 		},
 		{
 			"name": "Curso de Marca Personal",
-			"url": "https://platzi.com/clases/marca-personal/"
+			"url": "http://platzi.com/clases/marca-personal/"
 		},
 		{
 			"name": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, Wordpress +",
-			"url": "www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress"
+			"url": "http://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress"
+		},
+		{
+		"name": "Curso Profesional de JavaScript",
+		"url": "http://codigofacilito.com/courses/javascript-profesional"
+		},
+		{
+		"name": "Curso Profesional de React",
+		"url": "http://codigofacilito.com/courses/react-profesional"
+		},
+		{
+		"name": "JavaScript y el DOM",
+		"url": "http://codigofacilito.com/courses/javascript-dom"
 		}
 	]
 }

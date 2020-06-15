@@ -9,6 +9,16 @@
 	"title": "Curso Profesional de Backend"
 	},
 	{
+	"score": 10,
+	"code": "5dc219cd-0fc4-4ff8-8801-40f0731fb345",
+	"title": "Curso Profesional de JavaScript"
+	},
+	{
+	"score": 9,
+	"code": "f49a5728-0f73-4804-9859-cd6c90acae5e",
+	"title": "Curso Profesional de React"
+	},
+	{
 		"score": 8,
 		"code": "",
 		"title": "SugarCRM Developer Specialist"
@@ -20,6 +30,21 @@
 	"title": "Curso de AngularJS Gratis",
 	"progress": "100.0",
 	"url": "http://codigofacilito.com/courses/angularjs"
+	},
+	{
+	"title": "Curso Profesional de JavaScript",
+	"progress": "100.0",
+	"url": "http://codigofacilito.com/courses/javascript-profesional"
+	},
+	{
+	"title": "Curso Profesional de React",
+	"progress": "100.0",
+	"url": "http://codigofacilito.com/courses/react-profesional"
+	},
+	{
+	"title": "JavaScript y el DOM",
+	"progress": "100.0",
+	"url": "http://codigofacilito.com/courses/javascript-dom"
 	},
 	{
 	"title": "Curso Profesional de Backend",
@@ -34,15 +59,19 @@
 	{
 		"title": "Curso de Marca Personal",
 		"progress": "100.0",
-		"url": "https://platzi.com/clases/marca-personal/"
+		"url": "http://platzi.com/clases/marca-personal/"
 	},
 	{
-			"title": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, Wordpress +",
-			"progress": "90.0",
-			"url": "https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress"
+	"title": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, Wordpress +",
+	"progress": "90.0",
+	"url": "http://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress"
 	}
 	],
 	"finished_courses": [
+	{
+	"title": "Curso Profesional de JavaScript",
+	"url": "http://codigofacilito.com/courses/javascript-profesional"
+	},
 	{
 	"title": "Curso de AngularJS Gratis",
 	"url": "http://codigofacilito.com/courses/angularjs"
@@ -50,6 +79,18 @@
 	{
 	"title": "Curso Profesional de Backend",
 	"url": "http://codigofacilito.com/courses/backend-profesional"
+	},
+	{
+	"title": "Crea un sitio personal con Gatsby",
+	"url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+	},
+	{
+	"title": "Curso Profesional de React",
+	"url": "http://codigofacilito.com/courses/react-profesional"
+	},
+	{
+	"title": "JavaScript y el DOM",
+	"url": "http://codigofacilito.com/courses/javascript-dom"
 	}
 	]
 	},
