@@ -10,10 +10,10 @@ export default ()=>(
 				<div class="w-full text-center  flex mb-4">
 				  <div class="flex-1 h-12"></div>
 				  <div class="w-4 flex-1 h-12">
-				  	<a href="https://twitter.com/R4nbry" target="_blank" rel="noopener noreferrer"><img className="mt-5 visible h-10" src={twitter} alt="twitter"></img></a>
+				  	<a href="https://twitter.com/rcode97z" target="_blank" rel="noopener noreferrer"><img className="mt-5 visible h-10" src={twitter} alt="twitter"></img></a>
 				  </div>
 				  <div class="w-4 flex-1 h-12">
-				  	<a href="https://www.instagram.com/r4nbry/" target="_blank" rel="noopener noreferrer"><img className="mt-5 visible h-10" src={instagram} alt="instagram"></img></a>
+				  	<a href="https://www.instagram.com/rcode97z/" target="_blank" rel="noopener noreferrer"><img className="mt-5 visible h-10" src={instagram} alt="instagram"></img></a>
 				  </div>
 				  <div class="w-4 flex-1 h-12">
 				  	<a href="https://www.linkedin.com/in/ranbry/" target="_blank" rel="noopener noreferrer"><img className="mt-5 visible h-10" src={linkedin} alt="linkedin"></img></a>
