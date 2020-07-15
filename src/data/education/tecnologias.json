@@ -13,7 +13,11 @@
 		},
 		{
 			"name": "MarkLogic",
-			"frameworks": []
+			"frameworks": [
+				{
+					"name": "Datahub"
+				}
+			]
 		},
 		{
 			"name": "HTML & CSS",
@@ -40,6 +44,9 @@
 				},
 				{
 					"name": "Postgres"
+				},
+				{
+					"name": "MongoDB"
 				}
 			]
 		},
